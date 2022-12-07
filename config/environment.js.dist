@@ -1,0 +1,7 @@
+export default {
+
+// start ENV config
+
+    NODE_ENV: '"development"',
+    api_path: 'http://localhost:8000/',
+};
